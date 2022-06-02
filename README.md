@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**jbergq/jbergq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who am I?**
+- Research Engineer at [Smart Eye](https://smarteye.ai/)
+- B.Sc. in Engineering Physics and M.Sc. in Complex Adaptive Systems
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What do I like to do?**
+- Train models that do useful things
+- Build awesome software
+- Explore and learn new areas
+
+**What am I currently curious about?**
+- Computer vision 👁️
+- NLP and transformers 🤖 📖
+- MLOps 🏭
+- Genomics 🔬
+
+---
+[![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-bergqvist/)](https://www.linkedin.com/in/jonathan-bergqvist/)
