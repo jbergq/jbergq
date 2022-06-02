@@ -7,6 +7,7 @@
 
 **What do I like to do?**
 - Train models that do useful things
+- Create websites that people enjoy
 - Build awesome software
 - Explore and learn new areas
 
@@ -14,6 +15,7 @@
 - Computer vision 👁️
 - NLP and transformers 🤖 📖
 - MLOps 🏭
+- Web dev 💻
 - Genomics 🔬
 
 ---
