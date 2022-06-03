@@ -13,7 +13,7 @@
 
 **What am I currently curious about?**
 - Computer vision 👁️
-- NLP and transformers 🤖 📖
+- NLP and transformers 📖🤖
 - MLOps 🏭
 - Web dev 💻
 - Genomics 🔬
