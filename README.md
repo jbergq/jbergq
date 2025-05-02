@@ -16,7 +16,6 @@
 - NLP and transformers 📖🤖
 - MLOps 🏭
 - Web dev 💻
-- Genomics 🔬
 
 ---
 [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-bergqvist/)](https://www.linkedin.com/in/jonathan-bergqvist/)
