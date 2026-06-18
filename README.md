@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 **Who am I?**
-- Deep Learning Research Engineer at [Smart Eye](https://smarteye.se/)
+- Technical Expert in Deep Learning at [Smart Eye](https://smarteye.se/)
 - B.Sc. in Engineering Physics and M.Sc. in Complex Adaptive Systems
 
 
