@@ -1,21 +1,12 @@
-### Hey there! 👋
+### Hi, I'm Jonathan 👋
 
-**Who am I?**
-- Technical Expert in Deep Learning at [Smart Eye](https://smarteye.se/)
-- B.Sc. in Engineering Physics and M.Sc. in Complex Adaptive Systems
+I'm a Technical Expert in Deep Learning at [Smart Eye](https://smarteye.se/), working mostly in computer vision. My background is in engineering-physics and like building across the DL stack: models, the data behind them, and the software around them.
 
+Most of my work lives somewhere in:
+- **Computer vision & 3D perception** — training models for detection, segmentation, depth, 3D keypoint estimation and more
+- **Synthetic data & sim-to-real** — closing the gap between rendered and real
+- **Agentic AI** — agents grounded in real-world perception, with tool use and planning
 
-**What do I like to do?**
-- Train models that do useful things
-- Create websites that people enjoy
-- Build awesome software
-- Explore and learn new areas
+M.Sc. in Complex Adaptive Systems · B.Sc. in Engineering Physics
 
-**What am I currently curious about?**
-- Computer vision 👁️
-- NLP and transformers 📖🤖
-- MLOps 🏭
-- Web dev 💻
-
----
-[![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-bergqvist/)](https://www.linkedin.com/in/jonathan-bergqvist/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-bergqvist/)
